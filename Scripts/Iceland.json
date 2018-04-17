@@ -1,0 +1,242 @@
+[
+  {
+    "latitude": 64.14746,
+    "longitude": -21.93422,
+    "title": "City of Reykjavík",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Reykjavík</h1>",
+      "description": "<p>The capital city of Iceland, we stayed here both at the beginning and end of the trip.  We enjoyed some fine Icelandic cuisine here at several great restaurants, met some nice locals, shopped, and enjoyed the night life by attending many different bars.  Including a bar themed after my favorite movie: The Big Lebowski.</p>",
+      "image": "<img src='Content/IcelandPics/ReyChurch.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.978841,
+    "longitude": -22.632164,
+    "title": "Keflavík Airport",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Keflavík</h1>",
+      "description": "<p>Here is where we officially arrived in Iceland, as it was the main airport for the country.  It was an absolutely beautiful airport, which was fortunate because we spent a lot of time here due to flight delays.</p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.998462,
+    "longitude": -21.698964,   
+    "title": "Thrihnukagigur Volcano",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Thrihnukagigur Volcano</h1>",
+      "description": "<p>Here is where we participated in our first activity of the trip, and it was one offered only in Iceland.  Thrihnukagigur Volcano has been long dormant, so it was rigged to allow visitors to travel down inside of it.  You heard correctly, we went inside of a volcano!</p>",
+      "image": "<img src='Content/IcelandPics/Volcano.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.310372,
+    "longitude": -20.30236,
+    "title": "Geysir",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Geysir</h1>",
+      "description": "<p>The Land of Fire and Ice had many geysirs and waterfalls scattered across its landscape.  This was the first of many that we witnessed.</p>",
+      "image": "<img src='Content/IcelandPics/Geysir.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.327072,
+    "longitude": -20.119948,
+    "title": "Gullfoss Falls",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Gullfoss Falls</h1>",
+      "description": "<p>One of the larger set of waterfalls in the country, it was only thwarted later in the trip by the enormous Dettifoss.  We hung out here for quite a bit, because it was also where we were picked up to go snow mobiling.</p>",
+      "image": "<img src='Content/IcelandPics/Waterfall1.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.933461,
+    "longitude": -21.001383,    
+    "title": "Selfoss",    
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Selfoss</h1>",
+      "description": "<p></p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.183333,
+    "longitude": -21.333333,   
+    "title": "Hengill",    
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Hengill</h1>",
+      "description": "<p>Possibly the greatest event of the entire trip, Hengill was a large mountain range where two wonderful guides took us on an all-day mountain biking adventure.  We ended the incredible experience by bathing in what would be our first set of natural Icelandic hot springs.</p>",
+      "image": "<img src='Content/IcelandPics/Bike.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.615623,
+    "longitude": -19.988569,
+    "title": "Seljalandsfoss Waterfall",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Seljalandfoss Waterfall</h1>",
+      "description": "<p>Different from some of the larger waterfalls in the country, this one was more traditional along a mountainside.  We enjoyed dinner here at a nearby cafe before traveling just down the road to camp along the black sand beach.</p>",
+      "image": "<img src='Content/IcelandPics/Waterfall2.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.532052,
+    "longitude": -19.51137,
+    "title": "Skógafoss Waterfall",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Skógafoss Waterfall</h1>",
+      "description": "<p></p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.457482,
+    "longitude": -19.385119,
+    "title": "Black Sand Beach", 
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Black Sand Beach</h1>",
+      "description": "<p>Another unanimous favorite for the group, Iceland contained one of the world's only black sand beaches.  Naturally, we set up camp right then and there so we can enjoy its splendor all throughout the night, no matter how windy it might have been.  We even got to see a wild seal in the ocean!</p>",
+      "image": "<img src='Content/IcelandPics/Beach.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.065426,
+    "longitude": -16.863473,
+    "title": "Skaftafellsjökull Camp Site",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Skaftafellsjökull Camp Site</h1>",
+      "description": "<p>Unfortunately one of the most disappointing legs of the trip happened here.  While the camp site was absolutely beautiful at the base of the mountain, the lack of wifi caused us to miss important instructions emailed to us by what would have been our mountain guides.  While we missed out on what possibly could have been the greatest part of the trip in an expidition atop Iceland's largest mountain, we still got to enjoy another night of camping in the brisk wilderness.</p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.01466,
+    "longitude": -16.674888,
+    "title": "Hvannadalshnúkur Mountain",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Hvannadalshnúkur Mountain</h1>",
+      "description": "<p>While we didn't actually get to climb this particular mountain as intended, we later made up for it by climbing to the peak of our own psuedo-Hvannadalshnúkur that we found along the road.</p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  65.60386,
+    "longitude": -16.996105,
+    "title": "Lake Mývatn Camp Site",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Lake Mývatn Camp Site</h1>",
+      "description": "<p>When we arrived, Lake Mývatn looked absolutely stunning and we quickly set up camp to enjoy some time along the lake.  That enjoyment quickly faded, however, as we later learned that Lake Mývatn loosely translated to 'Bug Lake'.</p>",
+      "image": "<img src='Content/IcelandPics/Myvatn.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  65.595451,
+    "longitude": -16.920262,
+    "title": "Dimmuborgir Rock Formation",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>DimmuBorgir Rock Formation</h1>",
+      "description": "<p>I was particularly excited to see this location, as Dimmu Borgir was the name of a Norwegian Black Metal band that I adored, and this was where they got their name.  Meaning 'Dark Cities', Dimmuborgir was as eerie to look at as it was interesting.  We also hiked a short trail through and around the rock formation.</p>",
+      "image": "<img src='Content/IcelandPics/DimmuBorgir.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  65.814666,
+    "longitude": -16.384576,
+    "title": "Dettifoss Waterfall",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Dettifoss Waterfall</h1>",
+      "description": "<p>This had to be the largest waterfall in the country, and it delivered.  Reminiscent of Niagra Falls, Dettifoss was also famous, for many movies and tv shows where filmed here, including more recently Prometheus.</p>",
+      "image": "<img src='Content/IcelandPics/BigWaterfall.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  65.688492,
+    "longitude": -18.126169,
+    "title": "City of Akureyri",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Akureyri</h1>",
+      "description": "<p>One of the biggest surprises of the trip (for spending the night here wasn't initially planned), Akureyri was the second largest city in the country.  It didn't feel that large though, as it gave a more secluded and cozy vibe.  We stayed in a beautiful apartment and spent the night at some local bars, including 'Backpackers', where we enjoyed part of the evening with some Icelandic girls who were celebrating their graduation from school.</p>",
+      "image": "<img src='Content/IcelandPics/Akureyri.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.255857,
+    "longitude": -21.130362,
+    "title": "Silfra Fissure",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Silfra Fissure</h1>",
+      "description": "<p>Another 'Iceland Only' experience, we got to snorkel in between two tectonic plates!  Though the water was absolutely freezing, the experience itself was once in a lifetime.</p>",
+      "image": "<img />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.994938,
+    "longitude": -21.197856,
+    "title": "Eldhestar Beach",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Eldhestar Beach</h1>",
+      "description": "<p>It was here that we embarked on our last major activity of the trip: horseback riding.  Icelandic horses where smaller and had longer hair than the horses we were acustomed to, and the journey spanned far beyond just the beach.  The scenary was gorgeous, though I felt like I wouldn't be able to walk for a week at the conclusion of the ride.</p>",
+      "image": "<img src='Content/IcelandPics/Horses.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  63.879124,
+    "longitude": -22.445573,
+    "title": "Blue Lagoon Hot Spring",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Blue Lagoon</h1>",
+      "description": "<p>Just before we left for America, we stopped at arguably the country's most famous destination: the Blue Lagoon hot spring.  Words cannot describe the feelings we felt here and pictures cannot do it justice.  If you ever travel to Iceland, be sure you stop here.</p>",
+      "image": "<img src='Content/IcelandPics/BlueLagoon.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  },
+  {
+    "latitude":  64.078446,
+    "longitude": -16.230554,
+    "title": "Glacier Lagoon",
+    "content": {
+      "container": "<div id='content'>",
+      "header": "<h1 id='infoHead'>Jökulsárlón Glacier</h1>",
+      "description": "<p>This location perfectly sumarized my perception of Iceland before I had a chance to visit.  The glacier lagoon was mezmerizingly beautiful, with a mountain range in the distance serving as the backdrop.  We even got to ride a boat through the lagoon and see the iceburgs up close, and we each got to taste a piece of ice that was over 1,000 years old.</p>",
+      "image": "<img src='Content/IcelandPics/GlacierLagoon.jpg' class='infoImage' />",
+      "end": "</div>"
+    }
+  }
+ ] 

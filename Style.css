@@ -1,0 +1,86 @@
+body{background-image:url(Content/IceTexture.png);}
+/*body{background:linear-gradient(#003366, #50c878);}*/
+a:hover{text-decoration:none !important; cursor:pointer;}
+.container{background:#fff;}
+
+/* NAVIGATION */
+.nav-icon{background:rgba(0,0,0,0.6); position:absolute; right:5vw; top:12px; padding:0 8px 8px; cursor:pointer;}
+.nav-icon>span{display: block; width: 20px; height: 2px; margin-top: 7px; background: #ffffff;}
+#mobile-nav>ul{width:25%; background:rgba(0,0,0,0.6); float:right; margin-top:47px; margin-right:67px;}
+#mobile-nav>ul>a>li{color:#ffffff; list-style:none; font-size:32px; font-family:norse;}
+
+/* HOMEPAGE */
+#myVideo{min-width:100%; /*max-width:100%; */min-height:100vh;}
+.video-head{position:absolute; bottom:50%;}
+.video-head>h1{font-family:norse; font-size:90px; text-align:center; color:#fff;}
+.high-def{display:flex; flex-wrap:wrap; border-style:solid; border-width:4px; border-color:#fff; border-top-style:none;}
+.high-def>div{width:50%; height:450px; background-repeat:no-repeat; background-size:cover; display:inline-block; border-top-style:solid; border-top-width:4px; border-top-color:#fff; overflow:hidden;}
+.high-def>div:nth-child(odd){border-right-style:solid; border-right-width:4px; border-right-color:#fff;}
+.overlay>h2{color:#fff; font-family:norse; text-align:center; font-size:60px; font-weight:500; position:relative; top:50%; margin:0;}
+.rune{color:#fff; font-size:150px; text-align:center;}
+.overlay{width:100%; height:446px; position:relative;}
+.overlay:hover{width:100%; height:446px; position:relative; background:rgba(0,0,0,0.6); transition:0.5s ease; transform:scale(1.2);}
+/*.high-def>div:hover{transform:scale(1.2); transition:all 0.5s ease-in-out;}*/
+
+.arrow-box{position:absolute; top: 500px; left:42vw;}
+.scroll-text{color:#fff; font-size:40px; font-family:norse; margin-bottom:0;}
+.arrow{color:#fff; font-size:150px; text-align:center; animation-name:arrow; animation-duration:1.5s; animation-iteration-count:infinite;}
+@keyframes arrow{
+	0% {opacity:1;}
+	20% {opacity: .8;}
+	40% {opacity: .6;}
+	60% {opacity: .4;}
+	80% {opacity: .2;}
+	100% {opacity:0;}
+}
+
+/* MAP */
+.aboutHead{background:#0e1626; font-family:norse; color:#ffffff; text-align:center; font-size:60px; margin:0;}
+.infoImage{height:500px; width:auto;}
+.map-container{background:#0e1626;}
+#infowindow{visibility:hidden; height:100vh; background:#0e1626; font-family:norse; color:#ffffff;}
+
+/* VOLCANO */
+.normal-image{width:100%;}
+.volcano-hero{background-size:cover; height:450px; background-position:center !important; background-repeat:no-repeat; margin-bottom:20px;}
+.volcano-head{font-family:norse; text-align:center; font-size:75px; font-weight:700; color:#fff; position:absolute; top:275px; left:100px;}
+.volcano-desc{font-size:18px;}
+.modal-content, .mySlides>img{width:500px !important;}
+
+.ice-slide{margin-top:50px;}
+
+/* FLIP GALLERY */
+.flip-div{background:rgba(0,0,0,0.3); height:100vh;}
+.flip-header{color:#fff; font-family:norse; font-size:100px; font-weight:500; position:absolute; top:15%; left:5%; width:45%;}
+.flip-content{position:absolute; color:#fff; font-size:24px; top:45%; left:5%; width:45%;}
+.flip-link{position:absolute; color:#fff; font-size:24px; bottom:18%; left:18%; border:solid 2px #fff; border-radius:50px; padding:10px;}
+.fg-card>img{max-width:575px !important; max-height:725px;}
+.landscape{width:600px;}
+.beach-gallery>.portrait{height:540px; overflow:hidden;}
+.beach-gallery>.portrait>img{position:relative; bottom:200px;}
+.skogafoss-gallery>.portrait>img{max-height:720px; width:auto;}
+.slick-gallery{display:none !important;}
+
+/* MOBILE DISPLAY */
+@media screen and (max-width:767px){
+	#myVideo{min-height:100%; max-width:none;}
+	.high-def>div{width:100%; border-style:none;}
+	.high-def>div:nth-child(odd){border-style:none;}
+	.overlay>h2{font-size:50px;}
+	.arrow-box{top:375px; left:10vw;}
+	.video-head{width:100vw; left:0;}
+	.video-head>h1{font-size:50px;}
+
+	.volcano-hero{height:200px !important;}
+	.volcano-head{font-size:50px; left:0; top:55px;}
+
+	.gallery{left:0px !important; top:140vh !important; display:none !important;}
+	.fg-card>img{max-width:335px !important;}
+	.flip-header{font-size:50px; top:0px !important; width:95%;}
+	.flip-content{width:95%; font-size:16px; top:70%;}
+	.flip-div{height:200vh;}
+	.flip-link{bottom:-25% !important; left:25% !important;}
+	.slick-gallery{display:block !important; position:absolute; top:130vh;}
+	.slick-slide>img{max-height:400px !important;}
+}
+
